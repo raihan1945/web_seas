@@ -1,0 +1,26 @@
+<html>
+<head>
+         <title>belajar bootstrap</tiyle>
+         <meta name="viewport"content="width=device-width,initial-scale=1">
+
+         <link real-"stylesheet"href="css/bootstrap.min.css">
+         <script src="js/bootsrap.min.js"></script>
+</head>
+<body>
+<dive class="col_12 bg-12 bg-primary"></script>
+
+         <button type="button" class="btn btn-primary">primary</button>
+         <button type="button" class="btn btn-secondary">secondary</button>
+         <button type="button" class="btn btn-succes">succes</button>
+         <button type="button" class="btn btn-info">info</button>
+<div class="container">
+<div class="row">
+<div class="col-2 bg-ewarning:>side kiri</div>
+<div class="col-7 bg-info">conten<img src="gambar.jpg"></div>
+<div class="col-3 bg-dark:>side kanan</div>
+
+</div>
+</div>
+/body>
+</html>
+         
